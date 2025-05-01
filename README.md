@@ -30,6 +30,6 @@ To build a trustless automation system for managing and scheduling social media 
 - **Analytics Dashboard**: Provide users with insights and performance metrics post-scheduling.
 
 ---
-![Uploading Screenshot (49).png…]()
-![Uploading Screenshot (50).png…]()
+![Screenshot (52)](https://github.com/user-attachments/assets/0975b611-f316-40b3-8a37-7daf13321fcb)
+![Screenshot (53)](https://github.com/user-attachments/assets/7f1fc10e-023e-44e6-93c3-ec6d75317375)
 
