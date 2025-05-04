@@ -1,3 +1,5 @@
+![Screenshot (50)](https://github.com/user-attachments/assets/a34277db-b5b7-495d-b4bb-5ab5fa6b1828)
+![Screenshot (49)](https://github.com/user-attachments/assets/a7906ae6-7a2e-4223-9da3-a1122c2c288a)
 # Automated Social Media Post Scheduler
 
 ## 📝 Project Description
@@ -31,6 +33,5 @@ To build a trustless automation system for managing and scheduling social media 
 
 ---
 contract id: CAAIWCMIOAOB5322AG4DEGCLEZGTZZ3FVXWL2SC7O6FL324T5ABEU4ZR
-![Uploading Screenshot (49).png…]()
-![Uploading Screenshot (50).png…]()
+
 
